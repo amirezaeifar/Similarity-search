@@ -1,0 +1,21 @@
+# virtual env
+.venv/
+venv/
+
+# pycharm
+.idea/
+
+# python cache
+__pycache__/
+*.pyc
+
+# generated files
+artifacts/
+*.npy
+*.index
+*.pkl
+*.joblib
+
+# data files
+input.csv
+keywords_output.csv
